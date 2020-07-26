@@ -1,0 +1,19 @@
+body{
+    margin :0 ;
+    padding :0 ;
+}
+.class-div-full{
+    position: relative;
+    width: 30%;
+    height: 40%;
+    margin:auto  ;
+    padding:0 ; 
+    vertical-align: middle;
+}
+.class-div-small{
+    float: left;
+    height: 30%;
+    width:30% ;
+    background-color: burlywood ;
+    border: 3px solid black;
+}
